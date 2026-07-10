@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=event
+comment2.target=void\ traducir(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ agregar(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ limpiar(javafx.event.ActionEvent)
+comment5.params=
+comment5.target=void\ limpiarAgregar()
+numComments=6
