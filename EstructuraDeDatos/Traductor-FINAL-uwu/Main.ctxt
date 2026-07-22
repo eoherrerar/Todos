@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Jul 21 21:24:57 COT 2026
+comment0.target=Main
+comment1.params=primaryStage
+comment1.target=void start(javafx.stage.Stage)
+comment2.target=void initialize()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+comment4.target=void traducir()
+comment5.target=void agregar()
+comment6.target=void limpiarConsulta()
+comment7.target=void limpiarAgregar()
+comment8.target=void actualizarContadores()
+comment9.params=origen destino
+comment9.target=Traductor obtenerTraductorPorIdioma(java.lang.String, java.lang.String)
+numComments=10

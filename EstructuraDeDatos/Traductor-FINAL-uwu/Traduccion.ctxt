@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Jul 21 21:18:54 COT 2026
+comment0.target=Traduccion
+comment1.params=palabra significado
+comment1.target=Traduccion(java.lang.String, java.lang.String)
+comment2.target=java.lang.String verPalabra()
+comment3.target=java.lang.String verSignificado()
+comment4.params=palabra
+comment4.target=void setPalabra(java.lang.String)
+comment5.params=significado
+comment5.target=void setSignificado(java.lang.String)
+numComments=6

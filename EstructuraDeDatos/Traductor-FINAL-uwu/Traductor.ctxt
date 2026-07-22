@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Jul 21 21:20:32 COT 2026
+comment0.target=Traductor
+comment1.params=size tipo
+comment1.target=Traductor(int, TipoDiccionario)
+comment2.params=palabra
+comment2.target=boolean agregarPalabra(Traduccion)
+comment3.params=palabra
+comment3.target=java.lang.String verSignificado(java.lang.String)
+comment4.params=palabraEspanol nuevoSignificado
+comment4.target=boolean modificarPalabra(java.lang.String, java.lang.String)
+comment5.target=int verTotalPalabras()
+comment6.target=TipoDiccionario getTipo()
+comment7.target=java.lang.String verTipoDiccionario()
+numComments=8
