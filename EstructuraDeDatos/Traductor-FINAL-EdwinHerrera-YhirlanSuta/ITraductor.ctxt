@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ITraductor
+comment1.params=palabra
+comment1.target=boolean\ agregarPalabra(Traduccion)
+comment2.params=palabra
+comment2.target=java.lang.String\ verSignificado(java.lang.String)
+comment3.params=
+comment3.target=int\ verTotalPalabras()
+comment4.params=palabraActual\ nuevaPalabra\ nuevoSignificado
+comment4.target=boolean\ modificarPalabra(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=palabra
+comment5.target=boolean\ eliminarPalabra(java.lang.String)
+numComments=6

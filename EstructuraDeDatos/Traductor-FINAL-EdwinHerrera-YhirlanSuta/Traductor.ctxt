@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Traductor
+comment1.params=size\ tipo
+comment1.target=Traductor(int,\ TipoDiccionario)
+comment2.params=palabra
+comment2.target=boolean\ agregarPalabra(Traduccion)
+comment3.params=palabra
+comment3.target=java.lang.String\ verSignificado(java.lang.String)
+comment4.params=palabraActual\ nuevaPalabra\ nuevoSignificado
+comment4.target=boolean\ modificarPalabra(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=palabra
+comment5.target=boolean\ eliminarPalabra(java.lang.String)
+comment6.params=palabra
+comment6.target=Traduccion\ buscarPalabra(java.lang.String)
+comment7.params=
+comment7.target=int\ verTotalPalabras()
+comment8.params=
+comment8.target=TipoDiccionario\ getTipo()
+comment9.params=
+comment9.target=java.lang.String\ verTipoDiccionario()
+numComments=10
